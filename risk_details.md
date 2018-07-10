@@ -1,7 +1,7 @@
 # Risk Details:
 
 
-**UNIQUE MARKET REFERENCE** :       B0999ABC987654321  
+**UNIQUE MARKET REFERENCE** :       B0999ABC123456789  
 
 
 
@@ -15,8 +15,8 @@ Some Risks of Direct Physical Loss or Damage including Boiler Explosion and Mach
 Number 1, Big Boulevard, Olympia, Washington (WA) 99999, USA
 
 **PERIOD:**   
-Effective from:   1 January YYYY at 12:01pm Pacific Standard Time  
-To:               1 January ZZZZ at 12:01pm Pacific Standard Time
+Effective from:   1 January 2019 at 12:01pm Pacific Standard Time  
+To:               1 January 2020 at 12:01pm Pacific Standard Time
 
 **INTEREST:**  
 Real and Personal Property at the offices of the insured in USA (Washington) including the additional coverages defined below:  
@@ -43,7 +43,7 @@ Earthquake / Windstorm / Flood: USD   2,000
 All other perils except for the above: USD 1,000 
 ```
 **INSURED'S  RETENTION**:     
-20% of 100%.
+10% of 100%.
 
 **SITUATION**:  
 Offices of the yinsured in the USA.
@@ -62,7 +62,7 @@ LMA9150 Single Claims Agreement Party Arrangements
 ```
 
 **LOSS PAYEE:**  
-XXXX Inc. Number 2 Boulevard, Olympia, Washington (WA) 99999, USA
+123 Inc. Number 2 Boulevard, Olympia, Washington (WA) 99999, USA
 
 
 **SUBJECTIVITIES:**  
