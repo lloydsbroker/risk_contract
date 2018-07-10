@@ -51,7 +51,7 @@ Offices of the yinsured in the USA.
 **CONDITIONS:**   
 _(Any bespoke wording or clauses will form part of this section, whereas model or registered wordings or clauses can be referred to by reference as per the following example)_   
 ```
-XYZ Insurer - Primary Property wording CPROP192 - dated January 2005  
+Specific Insurer - Primary Property wording CPROP192 - dated January 2005  
 NMA 2914 (Amended Perils) Electronic Data Endorsement A (Section two sub-limit USD 10,000,000)  
 LMA 5019 Asbestos Endorsement  
 NMA 2962 Biological or Chemical Materials Exclusion  
