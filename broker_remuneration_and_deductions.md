@@ -4,7 +4,7 @@
 **FEE PAYABLE**
 
 **BY CLIENT?:**  
-YES/NO
+NO
 
 **TOTAL BROKERAGE:**  
 Z%
