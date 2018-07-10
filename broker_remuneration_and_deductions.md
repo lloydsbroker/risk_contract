@@ -3,7 +3,7 @@
 
 **FEE PAYABLE**
 
-**BY CLIENT?:**
+**BY CLIENT?:**  
 YES/NO
 
 **TOTAL BROKERAGE:**  
