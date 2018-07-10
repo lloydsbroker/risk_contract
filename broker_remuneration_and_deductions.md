@@ -3,8 +3,8 @@
 
 **FEE PAYABLE**
 
-**BY CLIENT?:**
-No
+**BY CLIENT?:**  
+YES/NO
 
 **TOTAL BROKERAGE:**  
 Z%
@@ -14,4 +14,4 @@ Z%
 **DEDUCTIONS**
 
 **FROM PREMIUM:**   
-5.1% Survey fee payable to Lloydsbroker Inc
+5% Survey fee payable to Lloydsbroker Inc
