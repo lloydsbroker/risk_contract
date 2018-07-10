@@ -14,4 +14,4 @@ Z%
 **DEDUCTIONS**
 
 **FROM PREMIUM:**   
-5.1% Survey fee payable to XYZ Inc
+5.1% Survey fee payable to Lloydsbroker Inc
